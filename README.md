@@ -1,0 +1,2 @@
+# 7th-sem-Web-Mini-Project-E-Farm-Management-System
+Farming has gone a notch high in the modern days. Farmers are considering farming as a business ventur rather than an activity for producing food for domestic consumption. just like any other business, farming also is faced with challenges such as limited resources But thanks to advanced technology ,farmers can increase their yields as well. Software Vendors have come up with farm management software that helps farmers monitor gadget be it an android phone ,tablets, i pad or windows.
